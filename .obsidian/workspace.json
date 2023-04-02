@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "5a0782fb4baa7339",
+    "type": "split",
+    "children": [
+      {
+        "id": "f25192509ca1eabc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05723a881600ff2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d418304fff4f470",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad878cdefe61a46c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b2f01fca6b9286e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "d8de7d445dba8031",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae2db5c7f972193a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee47326c35552bfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e80fa3ff08d2ed64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b6c6ced7762a91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7910a91cbd47bd07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cda72f4c8b68a65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f40ae7bbebac0de1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b05723a881600ff2",
+  "lastOpenFiles": [
+    "Java学习/JavaSE/NO.1（dos）.md",
+    "Java学习/JavaSE进阶/NO.1 final.md",
+    "机器学习/基础/resources/image9.png",
+    "机器学习/基础/resources/image8.png",
+    "机器学习/基础/resources/image7.png",
+    "机器学习/基础/resources/image6.png",
+    "机器学习/基础/resources/image5.png",
+    "机器学习/基础/resources/image5.jpeg",
+    "机器学习/基础/resources/image4.png",
+    "机器学习/基础/resources/image4-1.png",
+    "机器学习/基础/resources/image3.png",
+    "机器学习/基础/resources/image3-1.png",
+    "机器学习/基础/resources",
+    "机器学习/基础/2、线性回归算法/resources",
+    "机器学习/基础/2、线性回归算法/2.正规方程.md",
+    "机器学习/基础/2、线性回归算法/1.梯度下降算法.md",
+    "机器学习/基础/2、线性回归算法",
+    "机器学习/基础/2、线性回归算法.md",
+    "机器学习/基础/1、监督、非监督学习.md",
+    "机器学习/基础",
+    "机器学习",
+    "数据结构与算法/7.排序/resources",
+    "数据结构与算法/7.排序/7、大型结构排序.md",
+    "数据结构与算法/7.排序/6、快速排序.md",
+    "数据结构与算法/7.排序/5、归并排序.md",
+    "数据结构与算法/7.排序/4、堆排序.md",
+    "数据结构与算法/7.排序/1、插入排序.md",
+    "数据结构与算法/7.排序/3、选择排序.md",
+    "数据结构与算法/7.排序/2、希尔排序.md",
+    "数据结构与算法/7.排序",
+    "数据结构与算法/4.树/resources",
+    "数据结构与算法/4.树/3、二叉树.md",
+    "数据结构与算法/4.树/2、预备知识.md",
+    "数据结构与算法/4.树/1、关于树.md",
+    "数据结构与算法/4.树",
+    "数据结构与算法/3.表/3、栈Stack ADT、队列Queue ADT.md",
+    "数据结构与算法/3.表/1、ADT（Abstract Data Type）.md",
+    "数据结构与算法/3.表/resources",
+    "数据结构与算法/3.表/2、表List ADT.md",
+    "数据结构与算法/2.算法分析/1、时间复杂度，空间复杂度.md",
+    "数据结构与算法/1.初步/1、数学知识复习.md",
+    "数据结构与算法/1.初步/2、级数.md",
+    "数据结构与算法/1.初步/3、递归.md",
+    "Java学习/Web/6、MVC开发规则.md",
+    "Java学习/Web/5、JSP规范.md",
+    "Java学习/Web/4、互联网通信流程图.md"
+  ]
+}
