@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ja",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b05723a881600ff2",
+  "active": "d8de7d445dba8031",
   "lastOpenFiles": [
     "Java学习/JavaSE/NO.1（dos）.md",
     "Java学习/JavaSE进阶/NO.1 final.md",
