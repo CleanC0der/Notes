@@ -11,8 +11,12 @@
             "id": "d17435a0e23cf0fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test/Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test/Test.md"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9b2f01fca6b9286e",
+  "active": "d17435a0e23cf0fe",
   "lastOpenFiles": [
+    "Test/Test.md",
+    "Test",
     "Java学习/JavaSE/NO.1（dos）.md",
     "Java学习/JavaSE进阶/NO.1 final.md",
     "机器学习/基础/resources/image9.png",
@@ -177,14 +187,12 @@
     "数据结构与算法/4.树",
     "数据结构与算法/3.表/3、栈Stack ADT、队列Queue ADT.md",
     "数据结构与算法/3.表/1、ADT（Abstract Data Type）.md",
-    "数据结构与算法/3.表/resources",
     "数据结构与算法/3.表/2、表List ADT.md",
     "数据结构与算法/2.算法分析/1、时间复杂度，空间复杂度.md",
     "数据结构与算法/1.初步/1、数学知识复习.md",
     "数据结构与算法/1.初步/2、级数.md",
     "数据结构与算法/1.初步/3、递归.md",
     "Java学习/Web/6、MVC开发规则.md",
-    "Java学习/Web/5、JSP规范.md",
-    "Java学习/Web/4、互联网通信流程图.md"
+    "Java学习/Web/5、JSP规范.md"
   ]
 }
