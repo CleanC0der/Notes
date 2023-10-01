@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abdb02119e622826",
+        "id": "34a8f68a22c63ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "767ab7ef037817c1",
+            "id": "426defc6aa6c51a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flutter/1. 开发经验.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/1. 开发经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/1. 开发经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flutter/1. 开发经验.md"
+                "file": "11213.md"
               }
             }
           },
@@ -136,13 +130,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "cec1e347cc4a4e94",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,43 +156,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "126f1345acd8f687",
+  "active": "955f666b328e8efb",
   "lastOpenFiles": [
-    "test/Test.md",
-    "test/啊啊.md",
-    "未命名.canvas",
+    "Java学习/Framework/resources/SpringBoot.pdf",
+    "11213.md",
+    "test.md",
+    "未命名",
+    "t",
+    "flutter/开发经验.md",
+    "Java学习/JavaSE进阶/resources/image6-5.png",
+    "Java学习/JavaSE进阶/resources/image6-4.png",
+    "Java学习/JavaSE进阶/resources/image6-3.png",
+    "Java学习/JavaSE进阶/resources/image6-2.png",
+    "Java学习/JavaSE进阶/resources/image6-1.png",
+    "Java学习/JavaSE进阶/resources/image5.png",
+    "Java学习/JavaSE进阶/resources/image5-5.png",
+    "Java学习/JavaSE进阶/resources/image5-4.png",
+    "Java学习/JavaSE进阶/resources/image5-3.png",
+    "Java学习/JavaSE进阶/resources/image5-2.png",
+    "Java学习/JavaSE进阶/NO.9 IO流.md",
+    "Java学习/JavaSE进阶/resources",
+    "Java学习/JavaSE进阶/NO.7 异常.md",
+    "Java学习/JavaSE进阶/NO.8 集合.md",
+    "Java学习/JavaSE进阶/NO.5 数组Array.md",
+    "Java学习/JavaSE进阶/NO.6 常用类.md",
+    "Java学习/JavaSE进阶/NO.5 内部类.md",
+    "Java学习/JavaSE进阶/NO.4 Object类.md",
+    "Java学习/JavaSE进阶/No.3 包、import、访问控制权限.md",
+    "Java学习/JavaSE进阶/NO.2 抽象类和接口.md",
+    "Java学习/JavaSE进阶/NO.12 注解.md",
+    "Java学习/JavaSE进阶/NO.13 GUI编程.md",
+    "Java学习/JavaSE进阶/NO.11 反射.md",
+    "Java学习/JavaSE进阶/NO.1 final.md",
+    "Java学习/JavaSE进阶/NO.10 多线程.md",
+    "Java学习/JavaSE进阶",
     "flutter/1. 开发经验.md",
-    "test",
-    "计算机基础/操作系统/1. 概述.md",
-    "计算机基础/操作系统",
-    "计算机基础/计算机网络",
-    "计算机基础",
-    "flutter/未命名.md",
-    "test1",
-    "test",
-    "机器学习-20230713 14-12/机器学习/基础/2、线性回归算法.md",
-    "机器学习-20230713 14-12/机器学习/基础/1、监督、非监督学习.md",
-    "机器学习-20230713 14-12/机器学习/基础/2、线性回归算法/2.正规方程.md",
-    "机器学习-20230713 14-12/机器学习/基础/2、线性回归算法/1.梯度下降算法.md",
-    "机器学习-20230713 14-12/resources/image1.png",
-    "机器学习-20230713 14-12/resources/image1-1.png",
-    "机器学习-20230713 14-12/机器学习/基础/2、线性回归算法",
-    "机器学习-20230713 14-12/机器学习/基础",
-    "机器学习-20230713 14-12/机器学习",
-    "机器学习/基础/2、线性回归算法/1.梯度下降算法.md",
-    "机器学习/基础/2、线性回归算法/2.正规方程.md",
-    "机器学习/基础/2、线性回归算法.md",
-    "机器学习/基础/1、监督、非监督学习.md",
-    "机器学习/基础/2、线性回归算法",
-    "机器学习/基础/resources/image9.png",
-    "机器学习/基础/resources/image8.png",
-    "机器学习/基础/resources/image7.png",
-    "机器学习/基础/resources/image6.png",
-    "机器学习/基础/resources/image5.png",
-    "机器学习/基础/resources/image4.png",
-    "机器学习/基础/resources/image5.jpeg",
-    "机器学习/基础/resources/image4-1.png",
-    "Java学习-20230713 14-06/Java学习/Framework/3、框架.md",
-    "Java学习-20230713 14-06/Java学习/Framework/1、动态代理.md"
+    "Java学习/JavaSE/resources/YingWu.java",
+    "Java学习/JavaSE/resources/Pets.java",
+    "Java学习/JavaSE/resources/MasterPetsTest.java",
+    "Java学习/JavaSE/resources/Master.java",
+    "Java学习/JavaSE/resources/Cats.java",
+    "Java学习/JavaSE/注：学习资料.md",
+    "Java学习/JavaSE/NO.8 （新）字符串连接运算符.md",
+    "Java学习/JavaSE/NO.9 （新）Java的输入.md",
+    "Java学习/JavaSE/NO.6 逻辑运算符.md",
+    "Java学习/JavaSE/NO.7 算术运算符.md",
+    "Java学习/JavaSE/NO.4 类名注意事项.md",
+    "Java学习/JavaSE/NO.5 数据类型的一些规则.md",
+    "未命名.canvas"
   ]
 }
