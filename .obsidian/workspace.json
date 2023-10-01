@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Test.md",
+                "file": "flutter/1. 开发经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/Test.md",
+                "file": "flutter/1. 开发经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/Test.md",
+                "file": "flutter/1. 开发经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/Test.md"
+                "file": "flutter/1. 开发经验.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,12 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "767ab7ef037817c1",
+  "active": "126f1345acd8f687",
   "lastOpenFiles": [
-    "test/啊啊.md",
     "test/Test.md",
+    "test/啊啊.md",
     "未命名.canvas",
-    "flutter/开发经验.md",
+    "flutter/1. 开发经验.md",
     "test",
     "计算机基础/操作系统/1. 概述.md",
     "计算机基础/操作系统",
