@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "126f1345acd8f687",
+  "active": "955f666b328e8efb",
   "lastOpenFiles": [
     "test.md",
     "11213.md",
