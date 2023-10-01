@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbd769ea6e43c9d9",
+        "id": "abdb02119e622826",
         "type": "tabs",
         "children": [
           {
-            "id": "bafddd9e83a05fac",
+            "id": "767ab7ef037817c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机基础/操作系统/1. 概述.md",
+                "file": "test/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "be3832a56c090e0f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/操作系统/1. 概述.md",
+                "file": "test/Test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/操作系统/1. 概述.md",
+                "file": "test/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/操作系统/1. 概述.md"
+                "file": "test/Test.md"
               }
+            }
+          },
+          {
+            "id": "955f666b328e8efb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,14 +151,16 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "bafddd9e83a05fac",
+  "active": "767ab7ef037817c1",
   "lastOpenFiles": [
+    "test/啊啊.md",
+    "test/Test.md",
+    "未命名.canvas",
     "flutter/开发经验.md",
+    "test",
     "计算机基础/操作系统/1. 概述.md",
     "计算机基础/操作系统",
     "计算机基础/计算机网络",
@@ -172,7 +182,6 @@
     "机器学习/基础/2、线性回归算法.md",
     "机器学习/基础/1、监督、非监督学习.md",
     "机器学习/基础/2、线性回归算法",
-    "机器学习/基础",
     "机器学习/基础/resources/image9.png",
     "机器学习/基础/resources/image8.png",
     "机器学习/基础/resources/image7.png",
