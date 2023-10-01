@@ -11,8 +11,12 @@
             "id": "426defc6aa6c51a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "flutter/1. 开发经验.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "flutter/1. 开发经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "flutter/1. 开发经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "flutter/1. 开发经验.md"
+              }
             }
           },
           {
@@ -156,52 +164,52 @@
   },
   "active": "426defc6aa6c51a9",
   "lastOpenFiles": [
+    "未命名",
+    "2023-10-01.md",
+    "Java学习/JavaSE/未命名",
+    "flutter/未命名.canvas",
     "test.md",
     "11213.md",
-    "Java学习/Framework/resources/SpringBoot.pdf",
+    "Java学习/7. Framework/resources/SpringBoot.pdf",
     "test.md",
-    "未命名",
     "t",
     "flutter/开发经验.md",
-    "Java学习/JavaSE进阶/resources/image6-5.png",
-    "Java学习/JavaSE进阶/resources/image6-4.png",
-    "Java学习/JavaSE进阶/resources/image6-3.png",
-    "Java学习/JavaSE进阶/resources/image6-2.png",
-    "Java学习/JavaSE进阶/resources/image6-1.png",
-    "Java学习/JavaSE进阶/resources/image5.png",
-    "Java学习/JavaSE进阶/resources/image5-5.png",
-    "Java学习/JavaSE进阶/resources/image5-4.png",
-    "Java学习/JavaSE进阶/resources/image5-3.png",
-    "Java学习/JavaSE进阶/resources/image5-2.png",
-    "Java学习/JavaSE进阶/NO.9 IO流.md",
-    "Java学习/JavaSE进阶/resources",
-    "Java学习/JavaSE进阶/NO.7 异常.md",
-    "Java学习/JavaSE进阶/NO.8 集合.md",
-    "Java学习/JavaSE进阶/NO.5 数组Array.md",
-    "Java学习/JavaSE进阶/NO.6 常用类.md",
-    "Java学习/JavaSE进阶/NO.5 内部类.md",
-    "Java学习/JavaSE进阶/NO.4 Object类.md",
-    "Java学习/JavaSE进阶/No.3 包、import、访问控制权限.md",
-    "Java学习/JavaSE进阶/NO.2 抽象类和接口.md",
-    "Java学习/JavaSE进阶/NO.12 注解.md",
-    "Java学习/JavaSE进阶/NO.13 GUI编程.md",
-    "Java学习/JavaSE进阶/NO.11 反射.md",
-    "Java学习/JavaSE进阶/NO.1 final.md",
-    "Java学习/JavaSE进阶/NO.10 多线程.md",
-    "Java学习/JavaSE进阶",
+    "Java学习/2. JavaSE进阶/resources/image6-5.png",
+    "Java学习/2. JavaSE进阶/resources/image6-4.png",
+    "Java学习/2. JavaSE进阶/resources/image6-3.png",
+    "Java学习/2. JavaSE进阶/resources/image6-2.png",
+    "Java学习/2. JavaSE进阶/resources/image6-1.png",
+    "Java学习/2. JavaSE进阶/resources/image5.png",
+    "Java学习/2. JavaSE进阶/resources/image5-5.png",
+    "Java学习/2. JavaSE进阶/resources/image5-4.png",
+    "Java学习/2. JavaSE进阶/resources/image5-3.png",
+    "Java学习/2. JavaSE进阶/resources/image5-2.png",
+    "Java学习/2. JavaSE进阶/NO.9 IO流.md",
+    "Java学习/2. JavaSE进阶/resources",
+    "Java学习/2. JavaSE进阶/NO.7 异常.md",
+    "Java学习/2. JavaSE进阶/NO.8 集合.md",
+    "Java学习/2. JavaSE进阶/NO.5 数组Array.md",
+    "Java学习/2. JavaSE进阶/NO.6 常用类.md",
+    "Java学习/2. JavaSE进阶/NO.5 内部类.md",
+    "Java学习/2. JavaSE进阶/NO.4 Object类.md",
+    "Java学习/2. JavaSE进阶/No.3 包、import、访问控制权限.md",
+    "Java学习/2. JavaSE进阶/NO.2 抽象类和接口.md",
+    "Java学习/2. JavaSE进阶/NO.12 注解.md",
+    "Java学习/2. JavaSE进阶/NO.13 GUI编程.md",
+    "Java学习/2. JavaSE进阶/NO.11 反射.md",
+    "Java学习/2. JavaSE进阶/NO.1 final.md",
+    "Java学习/2. JavaSE进阶/NO.10 多线程.md",
+    "Java学习/2. JavaSE进阶",
     "flutter/1. 开发经验.md",
-    "Java学习/JavaSE/resources/YingWu.java",
-    "Java学习/JavaSE/resources/Pets.java",
-    "Java学习/JavaSE/resources/MasterPetsTest.java",
-    "Java学习/JavaSE/resources/Master.java",
-    "Java学习/JavaSE/resources/Cats.java",
-    "Java学习/JavaSE/注：学习资料.md",
-    "Java学习/JavaSE/NO.8 （新）字符串连接运算符.md",
-    "Java学习/JavaSE/NO.9 （新）Java的输入.md",
-    "Java学习/JavaSE/NO.6 逻辑运算符.md",
-    "Java学习/JavaSE/NO.7 算术运算符.md",
-    "Java学习/JavaSE/NO.4 类名注意事项.md",
-    "Java学习/JavaSE/NO.5 数据类型的一些规则.md",
+    "Java学习/1. JavaSE/resources/YingWu.java",
+    "Java学习/1. JavaSE/resources/Pets.java",
+    "Java学习/1. JavaSE/resources/MasterPetsTest.java",
+    "Java学习/1. JavaSE/resources/Master.java",
+    "Java学习/1. JavaSE/注：学习资料.md",
+    "Java学习/1. JavaSE/NO.8 （新）字符串连接运算符.md",
+    "Java学习/1. JavaSE/NO.9 （新）Java的输入.md",
+    "Java学习/1. JavaSE/NO.6 逻辑运算符.md",
+    "Java学习/1. JavaSE/NO.7 算术运算符.md",
     "未命名.canvas"
   ]
 }

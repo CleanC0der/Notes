@@ -21,7 +21,7 @@ created: 2021-02-24T15:34:00.0000000+08:00
 1.  是数组和链表的结合体
 2.  储存着链表节点的数组
 3.  以下的图对Java中的HashMap类说明
-4.  ![image1](resources/image1.png)
+4.  ![image1](数据结构与算法/3.表/resources/image1.png)
 
-5.  ![image2](resources/image2.png)
+5.  ![image2](数据结构与算法/3.表/resources/image2.png)
 
