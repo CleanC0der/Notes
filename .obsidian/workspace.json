@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "5a0782fb4baa7339",
+    "id": "87b5acd17c09094c",
     "type": "split",
     "children": [
       {
-        "id": "3f285fc54ad675fd",
+        "id": "bbd769ea6e43c9d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d17435a0e23cf0fe",
+            "id": "bafddd9e83a05fac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机基础/操作系统/1. 概述.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,25 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0d418304fff4f470",
+    "id": "5842037f3f89547b",
     "type": "split",
     "children": [
       {
-        "id": "ad878cdefe61a46c",
+        "id": "fcacd6c577520aff",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2f01fca6b9286e",
+            "id": "126f1345acd8f687",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "custom"
               }
             }
           },
           {
-            "id": "d8de7d445dba8031",
+            "id": "b11ae769fa23adf8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,10 +58,10 @@
             }
           },
           {
-            "id": "ae2db5c7f972193a",
+            "id": "d8eff0d5927acefd",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -68,20 +72,21 @@
     "width": 300
   },
   "right": {
-    "id": "ee47326c35552bfd",
+    "id": "be3832a56c090e0f",
     "type": "split",
     "children": [
       {
-        "id": "e80fa3ff08d2ed64",
+        "id": "88843c8f02be284a",
         "type": "tabs",
         "children": [
           {
-            "id": "11b6c6ced7762a91",
+            "id": "5265095323c2d1d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "计算机基础/操作系统/1. 概述.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "7910a91cbd47bd07",
+            "id": "2be16ad0a40025a0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机基础/操作系统/1. 概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4cda72f4c8b68a65",
+            "id": "6eba45b57176427d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +120,21 @@
             }
           },
           {
-            "id": "f40ae7bbebac0de1",
+            "id": "cc3ccec61f8300d4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机基础/操作系统/1. 概述.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,56 +143,45 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9b2f01fca6b9286e",
+  "active": "bafddd9e83a05fac",
   "lastOpenFiles": [
-    "Test/Test.md",
-    "Test",
-    "Java学习/JavaSE/NO.1（dos）.md",
-    "Java学习/JavaSE进阶/NO.1 final.md",
+    "flutter/开发经验.md",
+    "计算机基础/操作系统/1. 概述.md",
+    "计算机基础/操作系统",
+    "计算机基础/计算机网络",
+    "计算机基础",
+    "flutter/未命名.md",
+    "test1",
+    "test",
+    "机器学习-20230713 14-12/机器学习/基础/2、线性回归算法.md",
+    "机器学习-20230713 14-12/机器学习/基础/1、监督、非监督学习.md",
+    "机器学习-20230713 14-12/机器学习/基础/2、线性回归算法/2.正规方程.md",
+    "机器学习-20230713 14-12/机器学习/基础/2、线性回归算法/1.梯度下降算法.md",
+    "机器学习-20230713 14-12/resources/image1.png",
+    "机器学习-20230713 14-12/resources/image1-1.png",
+    "机器学习-20230713 14-12/机器学习/基础/2、线性回归算法",
+    "机器学习-20230713 14-12/机器学习/基础",
+    "机器学习-20230713 14-12/机器学习",
+    "机器学习/基础/2、线性回归算法/1.梯度下降算法.md",
+    "机器学习/基础/2、线性回归算法/2.正规方程.md",
+    "机器学习/基础/2、线性回归算法.md",
+    "机器学习/基础/1、监督、非监督学习.md",
+    "机器学习/基础/2、线性回归算法",
+    "机器学习/基础",
     "机器学习/基础/resources/image9.png",
     "机器学习/基础/resources/image8.png",
     "机器学习/基础/resources/image7.png",
     "机器学习/基础/resources/image6.png",
     "机器学习/基础/resources/image5.png",
-    "机器学习/基础/resources/image5.jpeg",
     "机器学习/基础/resources/image4.png",
+    "机器学习/基础/resources/image5.jpeg",
     "机器学习/基础/resources/image4-1.png",
-    "机器学习/基础/resources/image3.png",
-    "机器学习/基础/resources/image3-1.png",
-    "机器学习/基础/resources",
-    "机器学习/基础/2、线性回归算法/resources",
-    "机器学习/基础/2、线性回归算法/2.正规方程.md",
-    "机器学习/基础/2、线性回归算法/1.梯度下降算法.md",
-    "机器学习/基础/2、线性回归算法",
-    "机器学习/基础/2、线性回归算法.md",
-    "机器学习/基础/1、监督、非监督学习.md",
-    "机器学习/基础",
-    "机器学习",
-    "数据结构与算法/7.排序/resources",
-    "数据结构与算法/7.排序/7、大型结构排序.md",
-    "数据结构与算法/7.排序/6、快速排序.md",
-    "数据结构与算法/7.排序/5、归并排序.md",
-    "数据结构与算法/7.排序/4、堆排序.md",
-    "数据结构与算法/7.排序/1、插入排序.md",
-    "数据结构与算法/7.排序/3、选择排序.md",
-    "数据结构与算法/7.排序/2、希尔排序.md",
-    "数据结构与算法/7.排序",
-    "数据结构与算法/4.树/resources",
-    "数据结构与算法/4.树/3、二叉树.md",
-    "数据结构与算法/4.树/2、预备知识.md",
-    "数据结构与算法/4.树/1、关于树.md",
-    "数据结构与算法/4.树",
-    "数据结构与算法/3.表/3、栈Stack ADT、队列Queue ADT.md",
-    "数据结构与算法/3.表/1、ADT（Abstract Data Type）.md",
-    "数据结构与算法/3.表/2、表List ADT.md",
-    "数据结构与算法/2.算法分析/1、时间复杂度，空间复杂度.md",
-    "数据结构与算法/1.初步/1、数学知识复习.md",
-    "数据结构与算法/1.初步/2、级数.md",
-    "数据结构与算法/1.初步/3、递归.md",
-    "Java学习/Web/6、MVC开发规则.md",
-    "Java学习/Web/5、JSP规范.md"
+    "Java学习-20230713 14-06/Java学习/Framework/3、框架.md",
+    "Java学习-20230713 14-06/Java学习/Framework/1、动态代理.md"
   ]
 }
