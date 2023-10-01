@@ -1,0 +1,18 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "/": [
+      "flutter",
+      "计算机基础"
+    ],
+    "flutter": [
+      "flutter/开发经验.md",
+      "flutter/未命名.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}
