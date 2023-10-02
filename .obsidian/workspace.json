@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1048bb644e802728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/1. 开发经验.md",
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/1. 开发经验.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flutter/1. 开发经验.md"
+                "file": "test.md"
               }
             }
           },
@@ -162,14 +175,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d98ef93bf969451",
+  "active": "1048bb644e802728",
   "lastOpenFiles": [
+    "resources/Pasted image 20231002224933.png",
+    "resources",
+    "flutter/1. 开发经验.md",
+    "test.md",
     "flutter/resources/Pasted image 20231002224855.png",
     "Java学习/7. Framework/8、Springboot.md",
     "Java学习/7. Framework/5、Spring.md",
     "Java学习/7. Framework/resources/SpringBoot.pdf",
     "Java学习/7. Framework/resources/SpringBoot.md",
-    "flutter/1. 开发经验.md",
     "flutter/resources/Pasted image 20231002224014.png",
     "flutter/resources/Pasted image 20231002223930.png",
     "flutter/resources",
@@ -190,7 +206,6 @@
     "Java学习/2. JavaSE进阶/resources/image6-3.png",
     "Java学习/2. JavaSE进阶/resources/image6-2.png",
     "Java学习/2. JavaSE进阶/resources/image6-1.png",
-    "Java学习/2. JavaSE进阶/resources/image5.png",
     "Java学习/2. JavaSE进阶/NO.9 IO流.md",
     "Java学习/2. JavaSE进阶/resources",
     "Java学习/2. JavaSE进阶/NO.7 异常.md",
@@ -209,8 +224,6 @@
     "Java学习/2. JavaSE进阶",
     "Java学习/1. JavaSE/resources/YingWu.java",
     "Java学习/1. JavaSE/resources/Pets.java",
-    "Java学习/1. JavaSE/resources/MasterPetsTest.java",
-    "Java学习/1. JavaSE/注：学习资料.md",
     "未命名.canvas"
   ]
 }
