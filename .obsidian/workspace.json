@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c31274ef78621b9",
+        "id": "097ee366becea8cd",
         "type": "tabs",
         "children": [
           {
-            "id": "4d98ef93bf969451",
+            "id": "16cec6b580f19e20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "flutter/1. 开发经验.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1048bb644e802728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flutter/1. 开发经验.md",
-                "mode": "source",
-                "source": false
+                "file": "Java学习/7. Framework/1、动态代理.md",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/1. 开发经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/1. 开发经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "flutter/1. 开发经验.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,23 +157,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "126f1345acd8f687",
+  "active": "16cec6b580f19e20",
   "lastOpenFiles": [
-    "test.md",
     "flutter/1. 开发经验.md",
+    "flutter/resources/Pasted image 20231002225300.png",
+    "flutter/resources",
+    "数据结构与算法/2.算法分析/1、时间复杂度，空间复杂度.md",
+    "数据结构与算法/1.初步/3、递归.md",
+    "数据结构与算法/1.初步/2、级数.md",
+    "数据结构与算法/1.初步/1、数学知识复习.md",
+    "Java学习/7. Framework/5、Spring.md",
+    "Java学习/7. Framework/resources/SpringBoot.md",
+    "Java学习/7. Framework/8、Springboot.md",
+    "Java学习/7. Framework/7、SSM整合.md",
+    "Java学习/7. Framework/6、SpringMVC.md",
+    "Java学习/7. Framework/4、MyBatis.md",
+    "Java学习/7. Framework/3、框架.md",
+    "Java学习/7. Framework/2、Maven.md",
+    "Java学习/7. Framework/1、动态代理.md",
+    "test.md",
     "flutter/resources/Pasted image 20231002225017.png",
     "flutter/resources/Pasted image 20231002225016.png",
-    "flutter/resources",
     "resources/Pasted image 20231002224933.png",
     "resources",
     "flutter/resources/Pasted image 20231002224855.png",
-    "Java学习/7. Framework/8、Springboot.md",
-    "Java学习/7. Framework/5、Spring.md",
     "Java学习/7. Framework/resources/SpringBoot.pdf",
-    "Java学习/7. Framework/resources/SpringBoot.md",
     "flutter/resources/Pasted image 20231002224014.png",
     "flutter/resources/Pasted image 20231002223930.png",
-    "Java学习/7. Framework/6、SpringMVC.md",
     "Java学习/7. Framework/resources/image1-2.png",
     "未命名/Pasted image 20231001232333.png",
     "未命名",
@@ -202,7 +194,6 @@
     "t",
     "flutter/开发经验.md",
     "Java学习/2. JavaSE进阶/resources/image6-5.png",
-    "Java学习/2. JavaSE进阶/resources/image6-4.png",
     "Java学习/2. JavaSE进阶/NO.9 IO流.md",
     "Java学习/2. JavaSE进阶/resources",
     "Java学习/2. JavaSE进阶/NO.7 异常.md",
@@ -211,13 +202,6 @@
     "Java学习/2. JavaSE进阶/NO.6 常用类.md",
     "Java学习/2. JavaSE进阶/NO.5 内部类.md",
     "Java学习/2. JavaSE进阶/NO.4 Object类.md",
-    "Java学习/2. JavaSE进阶/No.3 包、import、访问控制权限.md",
-    "Java学习/2. JavaSE进阶/NO.2 抽象类和接口.md",
-    "Java学习/2. JavaSE进阶/NO.12 注解.md",
-    "Java学习/2. JavaSE进阶/NO.13 GUI编程.md",
-    "Java学习/2. JavaSE进阶/NO.11 反射.md",
-    "Java学习/2. JavaSE进阶/NO.1 final.md",
-    "Java学习/2. JavaSE进阶/NO.10 多线程.md",
     "Java学习/2. JavaSE进阶",
     "Java学习/1. JavaSE/resources/YingWu.java",
     "Java学习/1. JavaSE/resources/Pets.java",
