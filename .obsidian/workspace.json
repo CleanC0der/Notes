@@ -163,10 +163,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "cc3ccec61f8300d4",
+  "active": "dc6287a853c79f29",
   "lastOpenFiles": [
-    "Java学习/7. Framework/3. SpringMVC.md",
+    "Java学习/2. MySQL/15-JDBC.md",
+    "Java学习/2. MySQL/14-Myisan和Innodb.md",
     "Java学习/7. Framework/4. MyBatis.md",
+    "Java学习/7. Framework/3. SpringMVC.md",
     "Java学习/7. Framework/MyBatis.md",
     "Java学习/7. Framework/notes/08-插件的开发和使用.md",
     "Java学习/7. Framework/notes/07-MyBatis运行原理解析.md",
@@ -207,8 +209,6 @@
     "Java学习/7. Framework/notes/01-IOC.md",
     "Java学习/7. Framework/resources/SpringBoot.pdf",
     "Java学习/7. Framework/8、Springboot.md",
-    "Java学习/4. 设计模式/1. 动态代理.md",
-    "Java学习/7. Framework/6、SpringMVC.md",
     "Java学习/4. 设计模式",
     "Java学习/3. 常用工具/resources",
     "flutter/未命名.canvas",
