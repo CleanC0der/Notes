@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc24555c04929c8",
+        "id": "b5c84845aa96bb38",
         "type": "tabs",
         "children": [
           {
-            "id": "f97f909cc4e9ce9c",
+            "id": "37f4c1e98bdbfc5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/7. Framework/1、动态代理.md",
+                "file": "Java学习/7. Framework/3、框架是什么.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6f4c717c730b66d0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Java学习/2. MySQL/resources/字符类.png"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/7. Framework/1、动态代理.md",
+                "file": "Java学习/7. Framework/3、框架是什么.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/7. Framework/1、动态代理.md",
+                "file": "Java学习/7. Framework/3、框架是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/7. Framework/1、动态代理.md"
+                "file": "Java学习/7. Framework/3、框架是什么.md"
               }
             }
           },
@@ -173,8 +163,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f97f909cc4e9ce9c",
+  "active": "126f1345acd8f687",
   "lastOpenFiles": [
+    "Java学习/4. 设计模式",
+    "Java学习/7. Framework/resources/image1-1.png",
+    "Java学习/3. 常用工具/1. Maven.md",
+    "Java学习/2. MySQL/resources/字符类.png",
+    "Java学习/3. 常用工具/resources/image1.png",
+    "Java学习/3. 常用工具/resources/image2.png",
+    "Java学习/3. 常用工具/resources",
+    "Java学习/7. Framework/4、MyBatis.md",
+    "Java学习/3. 常用工具",
+    "Java学习/7. Framework/3、框架是什么.md",
+    "Java学习/7. Framework/1、动态代理.md",
     "Java学习/2. MySQL/03-计算字段、常用处理函数.md",
     "Java学习/2. MySQL/04-分组.md",
     "Java学习/2. MySQL/02-过滤、正则表达式.md",
@@ -186,10 +187,6 @@
     "img/TCP-IP/输入url-1.png",
     "img/TCP-IP/请求首部字段.png",
     "img/TCP-IP/滑动窗口.png",
-    "img/TCP-IP/混合加密过程.png",
-    "img/TCP-IP/数字证书加密过程.png",
-    "img/TCP-IP/慢启动算法.png",
-    "img/TCP-IP/实体首部字段.png",
     "img/TCP-IP",
     "img/Spring",
     "img/mysql",
@@ -206,8 +203,6 @@
     "Java学习/2. MySQL/06-索引与算法.md",
     "Java学习/2. MySQL/05-子查询.md",
     "Java学习/2. MySQL/resources",
-    "Java学习/9. NoSql/resources/redis.pdf",
-    "Java学习/7. Framework/resources/SpringBoot.pdf",
     "Java学习/7. Framework/resources/SpringBoot.md",
     "Java学习/9. NoSql/1、Redis.md",
     "Java学习/8. JVM/8. JVM优化案例.md",
@@ -216,11 +211,6 @@
     "Java学习/8. JVM/5. 垃圾处理器.md",
     "Java学习/8. JVM/4. 运行时数据区.md",
     "Java学习/8. JVM/3. 类加载子系统.md",
-    "Java学习/8. JVM/2. class字节码文件结构.md",
-    "Java学习/8. JVM/1. JVM概述.md",
-    "Java学习/7. Framework/8、Springboot.md",
-    "Java学习/7. Framework/7、SSM整合.md",
-    "Java学习/7. Framework/6、SpringMVC.md",
     "flutter/未命名.canvas",
     "未命名.canvas"
   ]
