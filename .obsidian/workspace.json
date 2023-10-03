@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +166,8 @@
   },
   "active": "0f1ec159a8d7911d",
   "lastOpenFiles": [
+    "Java学习/7. Framework/04-SpringMVC.md",
+    "Java学习/7. Framework/SpringMVC.md",
     "Java学习/7. Framework/7、SSM整合.md",
     "Java学习/7. Framework/2. Spring.md",
     "Java学习/7. Framework/1. 框架是什么.md",
@@ -209,7 +212,6 @@
     "Java学习/2. MySQL/13-B+树索引优化.md",
     "Java学习/2. MySQL/12-加锁分析.md",
     "Java学习/2. MySQL/11-explain.md",
-    "Java学习/2. MySQL/10-索引优化实例.md",
     "flutter/未命名.canvas",
     "未命名.canvas"
   ]
