@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/7. Framework/3、框架是什么.md",
+                "file": "Java学习/7. Framework/SpringBoot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/7. Framework/3、框架是什么.md",
+                "file": "Java学习/7. Framework/SpringBoot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/7. Framework/3、框架是什么.md",
+                "file": "Java学习/7. Framework/SpringBoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/7. Framework/3、框架是什么.md"
+                "file": "Java学习/7. Framework/SpringBoot.md"
               }
             }
           },
@@ -165,8 +165,23 @@
   },
   "active": "126f1345acd8f687",
   "lastOpenFiles": [
-    "Java学习/4. 设计模式",
+    "Java学习/7. Framework/Spring.md",
+    "Java学习/7. Framework/notes/04-SpringMVC.md",
+    "Java学习/7. Framework/notes/03-Spirng事务.md",
+    "Java学习/7. Framework/notes/02-AOP.md",
+    "Java学习/7. Framework/notes/01-IOC.md",
+    "Java学习/7. Framework/notes/00-Spring框架.md",
+    "Java学习/7. Framework/notes",
+    "Java学习/7. Framework/resources/SpringBoot.pdf",
+    "Java学习/7. Framework/SpringBoot.md",
     "Java学习/7. Framework/resources/image1-1.png",
+    "Java学习/7. Framework/1. 框架是什么.md",
+    "Java学习/7. Framework/7、SSM整合.md",
+    "Java学习/7. Framework/8、Springboot.md",
+    "Java学习/4. 设计模式/1. 动态代理.md",
+    "Java学习/7. Framework/6、SpringMVC.md",
+    "Java学习/7. Framework/5、Spring.md",
+    "Java学习/4. 设计模式",
     "Java学习/3. 常用工具/1. Maven.md",
     "Java学习/2. MySQL/resources/字符类.png",
     "Java学习/3. 常用工具/resources/image1.png",
@@ -174,8 +189,6 @@
     "Java学习/3. 常用工具/resources",
     "Java学习/7. Framework/4、MyBatis.md",
     "Java学习/3. 常用工具",
-    "Java学习/7. Framework/3、框架是什么.md",
-    "Java学习/7. Framework/1、动态代理.md",
     "Java学习/2. MySQL/03-计算字段、常用处理函数.md",
     "Java学习/2. MySQL/04-分组.md",
     "Java学习/2. MySQL/02-过滤、正则表达式.md",
@@ -192,25 +205,12 @@
     "img/mysql",
     "img/JavaBase",
     "img/img1",
-    "img",
-    "temp",
     "Java学习/2. MySQL/13-B+树索引优化.md",
     "Java学习/2. MySQL/12-加锁分析.md",
     "Java学习/2. MySQL/11-explain.md",
     "Java学习/2. MySQL/10-索引优化实例.md",
     "Java学习/2. MySQL/08-锁.md",
     "Java学习/2. MySQL/07-索引详解.md",
-    "Java学习/2. MySQL/06-索引与算法.md",
-    "Java学习/2. MySQL/05-子查询.md",
-    "Java学习/2. MySQL/resources",
-    "Java学习/7. Framework/resources/SpringBoot.md",
-    "Java学习/9. NoSql/1、Redis.md",
-    "Java学习/8. JVM/8. JVM优化案例.md",
-    "Java学习/8. JVM/7. 高效并发.md",
-    "Java学习/8. JVM/6. 执行引擎.md",
-    "Java学习/8. JVM/5. 垃圾处理器.md",
-    "Java学习/8. JVM/4. 运行时数据区.md",
-    "Java学习/8. JVM/3. 类加载子系统.md",
     "flutter/未命名.canvas",
     "未命名.canvas"
   ]
