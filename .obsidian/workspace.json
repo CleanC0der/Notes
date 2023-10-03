@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "80f2343fc8fd4dcb",
+        "id": "d966423f04aa8433",
         "type": "tabs",
         "children": [
           {
-            "id": "f87526a4ab9966de",
+            "id": "72a125c32ce5aa5a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Java学习/7. NoSql/redis.pdf"
+                "file": "Generated/redis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/7. NoSql/redis.pdf",
+                "file": "Generated/redis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/7. NoSql/redis.pdf",
+                "file": "Generated/redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/7. NoSql/redis.pdf"
+                "file": "Generated/redis.md"
               }
             }
           },
@@ -161,27 +163,37 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f87526a4ab9966de",
+  "active": "72a125c32ce5aa5a",
   "lastOpenFiles": [
-    "Java学习/1. JavaSE/9.2线程.md",
+    "Java学习/7. NoSql/redis.md",
+    "Java学习/7. NoSql/redis.422.png",
+    "Java学习/7. NoSql/redis.421.png",
+    "Java学习/7. NoSql/redis.420.png",
+    "Java学习/7. NoSql/redis.419.png",
+    "Java学习/7. NoSql/redis.418.png",
+    "Java学习/7. NoSql/redis.417.png",
+    "Java学习/7. NoSql/redis.416.png",
+    "Java学习/7. NoSql/redis.415.png",
+    "Java学习/7. NoSql/redis.414.png",
+    "Java学习/7. NoSql/redis.413.png",
+    "Java学习/7. NoSql/新建文件夹/redis.pdf",
+    "Java学习/7. NoSql/新建文件夹",
+    "Generated/redis.md",
+    "Generatedimages",
+    "Generated/images",
+    "Generated",
     "Java学习/7. NoSql/redis.pdf",
-    "img/AQS同步状态方法调用.png",
+    "Java学习/1. JavaSE/9.2线程.md",
     "img/Spring",
     "img/TCP-IP",
     "img/mysql",
     "img/img1",
-    "img/JavaBase",
-    "img",
     "Java学习/7. NoSql/1、Redis.md",
-    "Java学习/7. NoSql/resources/image1.png",
-    "Java学习/7. NoSql/resources/redis.pdf",
     "Java学习/10. SpringBoot Actuator/1. 开始.md",
     "Java学习/10. SpringBoot Actuator/shutdown.md",
     "Java学习/10. SpringBoot Actuator/2. health.md",
     "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/1. 框架是什么.md",
-    "Java学习/5. Framework/resources/SpringMVC执行流程.png",
-    "Java学习/5. Framework/resources/Spring框架结构.png",
     "Java学习/5. Framework/5. SSM整合.md",
     "Java学习/5. Framework/4. MyBatis.md",
     "Java学习/2. MySQL/15-JDBC.md",
@@ -196,19 +208,9 @@
     "Java学习/7. Framework/notes/03-映射器.md",
     "Java学习/7. Framework/notes/02-MyBatis的构成.md",
     "Java学习/7. Framework/notes/01-JDBC、Hibernate、Mybatis.md",
-    "Java学习/7. Framework/notes",
     "Java学习/1. JavaSE/1.2原生数据类型.md",
     "Java学习/5. Framework/6. SpringBoot.md",
     "Java学习/7. Framework/SpringMVC.md",
-    "Java学习/7. Framework/notes/00-Spring框架.md",
-    "Java学习/7. Framework/Spring.md",
-    "img/TCP-IP/输入url-1.png",
-    "img/TCP-IP/高速重发控制.png",
-    "img/TCP-IP/通用首部字段.png",
-    "img/TCP-IP/请求首部字段.png",
-    "img/TCP-IP/滑动窗口.png",
-    "img/TCP-IP/混合加密过程.png",
-    "Java学习/7. Framework/resources/SpringBoot.pdf",
     "flutter/未命名.canvas",
     "未命名.canvas"
   ]
