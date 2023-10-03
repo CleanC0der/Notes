@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a74b14b5bbcc4688",
+        "id": "f9fd8402fef58c64",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f3bc81e7031bc3",
+            "id": "1cc62b4b3fd9307b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Java学习/10. SpringBoot Actuator/1. 开始.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java学习/10. SpringBoot Actuator/1. 开始.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java学习/10. SpringBoot Actuator/1. 开始.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java学习/10. SpringBoot Actuator/1. 开始.md"
+              }
             }
           },
           {
@@ -157,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e3f3bc81e7031bc3",
+  "active": "1cc62b4b3fd9307b",
   "lastOpenFiles": [
     "数据结构与算法/1.初步/1、数学知识复习.md",
     "数据结构与算法/2.算法分析/1、时间复杂度，空间复杂度.md",
