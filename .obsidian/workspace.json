@@ -11,9 +11,11 @@
             "id": "f87526a4ab9966de",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Java学习/7. NoSql/resources/redis.pdf"
+                "file": "Java学习/1. JavaSE/9.2线程.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/7. NoSql/resources/redis.pdf",
+                "file": "Java学习/1. JavaSE/9.2线程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/7. NoSql/resources/redis.pdf",
+                "file": "Java学习/1. JavaSE/9.2线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/7. NoSql/resources/redis.pdf"
+                "file": "Java学习/1. JavaSE/9.2线程.md"
               }
             }
           },
@@ -161,10 +163,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f87526a4ab9966de",
+  "active": "126f1345acd8f687",
   "lastOpenFiles": [
+    "img/AQS同步状态方法调用.png",
+    "img/Spring",
+    "img/TCP-IP",
+    "img/mysql",
+    "img/img1",
+    "img/JavaBase",
+    "img",
     "Java学习/7. NoSql/1、Redis.md",
     "Java学习/7. NoSql/resources/image1.png",
+    "Java学习/7. NoSql/resources/redis.pdf",
     "Java学习/10. SpringBoot Actuator/1. 开始.md",
     "Java学习/10. SpringBoot Actuator/shutdown.md",
     "Java学习/10. SpringBoot Actuator/2. health.md",
@@ -199,16 +209,8 @@
     "img/TCP-IP/滑动窗口.png",
     "img/TCP-IP/混合加密过程.png",
     "img/TCP-IP/数字证书加密过程.png",
-    "img/TCP-IP",
-    "img/Spring",
-    "img/mysql",
-    "img/JavaBase",
-    "img/img1",
-    "img",
-    "Java学习/7. Framework/notes/04-SpringMVC.md",
     "Java学习/7. Framework/resources/SpringBoot.pdf",
     "Java学习/4. 设计模式",
-    "Java学习/3. 常用工具/resources",
     "flutter/未命名.canvas",
     "未命名.canvas"
   ]
