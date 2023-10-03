@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/1. JavaSE/5.7集合总结.md",
+                "file": "Java学习/1. JavaSE/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/1. JavaSE/5.7集合总结.md",
+                "file": "Java学习/1. JavaSE/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/1. JavaSE/5.7集合总结.md",
+                "file": "Java学习/1. JavaSE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/1. JavaSE/5.7集合总结.md"
+                "file": "Java学习/1. JavaSE/README.md"
               }
             }
           },
@@ -165,12 +164,18 @@
   },
   "active": "1cc62b4b3fd9307b",
   "lastOpenFiles": [
+    "Java学习/1. JavaSE/1.1认识JAVA.md",
+    "Java学习/1. JavaSE/resources/JAVA层次图.png",
+    "Java学习/1. JavaSE/9.2线程.md",
+    "resources 1.md",
+    "resources.md",
+    "Java学习/1. JavaSE/6.7异常(Exception).md",
+    "Java学习/1. JavaSE/5.7集合总结.md",
+    "Java学习/1. JavaSE/resources/HashMap的内存实现布局.png",
     "Java学习/1. JavaSE/5.3集合简介.md",
     "Java学习/1. JavaSE/5.1数组(Array).md",
     "Java学习/1. JavaSE/resources/集合.png",
-    "Java学习/1. JavaSE/5.7集合总结.md",
     "Java学习/1. JavaSE/resources/迭代器.png",
-    "Java学习/1. JavaSE/1.1认识JAVA.md",
     "Java学习/1. JavaSE/resources/数组1.png",
     "Java学习/1. JavaSE/README.md",
     "Java学习/1. JavaSE/8.1IO(输入输出).md",
@@ -181,16 +186,12 @@
     "前端/2. JavaScript/16、Vue-Cli（2.x）.md",
     "Java学习/1. JavaSE/resources/数组2.png",
     "Java学习/1. JavaSE/resources/synchronized.png",
-    "Java学习/1. JavaSE/resources/JAVA层次图.png",
-    "Java学习/1. JavaSE/resources/HashMap的内存实现布局.png",
     "Java学习/1. JavaSE/resources/Exception.png",
     "Java学习/1. JavaSE/resources/5-1.png",
     "Java学习/1. JavaSE/resources",
     "Java学习/1. JavaSE/9.3JVM之加载器.md",
-    "Java学习/1. JavaSE/9.2线程.md",
     "Java学习/1. JavaSE/9.1序列化.md",
     "Java学习/1. JavaSE/6.8内部类.md",
-    "Java学习/1. JavaSE/6.7异常(Exception).md",
     "Java学习/1. JavaSE/6.6通过JUnit深入理解反射与注解的使用方式和与场景.md",
     "Java学习/1. JavaSE/6.5JAVA注解(Annotation).md",
     "Java学习/1. JavaSE/6.4反射.md",
@@ -198,8 +199,6 @@
     "Java学习/1. JavaSE/6.2枚举类型.md",
     "Java学习/1. JavaSE/6.1泛型.md",
     "Java学习/1. JavaSE/5.6集合之Set.md",
-    "Java学习/1. JavaSE/5.5集合之Map.md",
-    "Java学习/1. JavaSE/5.4集合之List.md",
     "Java学习/1. JavaSE",
     "Java学习/新建文件夹",
     "前端",
