@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/2. MySQL/04-分组.md",
+                "file": "Java学习/7. Framework/1、动态代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/2. MySQL/04-分组.md",
+                "file": "Java学习/7. Framework/1、动态代理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/2. MySQL/04-分组.md",
+                "file": "Java学习/7. Framework/1、动态代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/2. MySQL/04-分组.md"
+                "file": "Java学习/7. Framework/1、动态代理.md"
               }
             }
           },
@@ -169,11 +169,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "active": "f97f909cc4e9ce9c",
   "lastOpenFiles": [
+    "Java学习/2. MySQL/03-计算字段、常用处理函数.md",
+    "Java学习/2. MySQL/04-分组.md",
     "Java学习/2. MySQL/02-过滤、正则表达式.md",
     "Java学习/2. MySQL/01-基础.md",
     "Java学习/2. MySQL/00-数据库基础.md",
@@ -202,8 +205,6 @@
     "Java学习/2. MySQL/07-索引详解.md",
     "Java学习/2. MySQL/06-索引与算法.md",
     "Java学习/2. MySQL/05-子查询.md",
-    "Java学习/2. MySQL/04-分组.md",
-    "Java学习/2. MySQL/03-计算字段、常用处理函数.md",
     "Java学习/2. MySQL/resources",
     "Java学习/9. NoSql/resources/redis.pdf",
     "Java学习/7. Framework/resources/SpringBoot.pdf",
