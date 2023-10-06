@@ -11,11 +11,9 @@
             "id": "72a125c32ce5aa5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Generated/redis.md",
-                "mode": "source",
-                "source": false
+                "file": "Java学习/7. NoSql/新建文件夹/redis.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generated/redis.md",
+                "file": "Java学习/7. NoSql/新建文件夹/redis.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generated/redis.md",
+                "file": "Java学习/7. NoSql/新建文件夹/redis.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generated/redis.md"
+                "file": "Java学习/7. NoSql/新建文件夹/redis.pdf"
               }
             }
           },
@@ -163,7 +161,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "72a125c32ce5aa5a",
+  "active": "126f1345acd8f687",
   "lastOpenFiles": [
     "Java学习/7. NoSql/redis.md",
     "Java学习/7. NoSql/redis.422.png",
