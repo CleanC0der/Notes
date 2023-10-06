@@ -161,8 +161,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "126f1345acd8f687",
+  "active": "72a125c32ce5aa5a",
   "lastOpenFiles": [
+    "Java学习/3. 常用工具/1. Maven.md",
+    "Java学习/4. 设计模式/1. 动态代理.md",
+    "Java学习/7. NoSql/新建文件夹/redis.pdf",
     "Java学习/7. NoSql/redis.md",
     "Java学习/7. NoSql/redis.422.png",
     "Java学习/7. NoSql/redis.421.png",
@@ -174,7 +177,6 @@
     "Java学习/7. NoSql/redis.415.png",
     "Java学习/7. NoSql/redis.414.png",
     "Java学习/7. NoSql/redis.413.png",
-    "Java学习/7. NoSql/新建文件夹/redis.pdf",
     "Java学习/7. NoSql/新建文件夹",
     "Generated/redis.md",
     "Generatedimages",
@@ -207,8 +209,6 @@
     "Java学习/7. Framework/notes/02-MyBatis的构成.md",
     "Java学习/7. Framework/notes/01-JDBC、Hibernate、Mybatis.md",
     "Java学习/1. JavaSE/1.2原生数据类型.md",
-    "Java学习/5. Framework/6. SpringBoot.md",
-    "Java学习/7. Framework/SpringMVC.md",
     "flutter/未命名.canvas",
     "未命名.canvas"
   ]
