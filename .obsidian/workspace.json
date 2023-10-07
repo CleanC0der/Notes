@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f785534925ca7189",
+        "id": "f9fe1850a28aa725",
         "type": "tabs",
         "children": [
           {
-            "id": "eca557c98349954f",
+            "id": "c2aee574a712c9fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "flutter/1. 开发经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "flutter/1. 开发经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "flutter/1. 开发经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "flutter/1. 开发经验.md"
               }
             }
           },
@@ -163,11 +163,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "eca557c98349954f",
+  "active": "c2aee574a712c9fe",
   "lastOpenFiles": [
+    "README.md",
+    "Java学习/2. MySQL/00-数据库基础.md",
+    "Java学习/2. MySQL/Readme.md",
     "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/1. 框架是什么.md",
-    "README.md",
     "flutter/1.&nbsp开发经验.md",
     "Java学习/5. Framework/3. SpringMVC.md",
     "Java学习/5. Framework/3.SpringMVC.md",
@@ -201,12 +203,10 @@
     "Java学习/7. NoSql/redis.414.png",
     "Java学习/7. NoSql/redis.413.png",
     "Java学习/7. NoSql/新建文件夹",
-    "Generated/redis.md",
     "Generatedimages",
     "Generated/images",
     "Generated",
     "Java学习/7. NoSql/redis.pdf",
-    "Java学习/1. JavaSE/9.2线程.md",
     "img/Spring",
     "img/TCP-IP",
     "img/mysql",
