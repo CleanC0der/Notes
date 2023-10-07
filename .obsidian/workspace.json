@@ -11,8 +11,12 @@
             "id": "b5d015afabe2afb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java学习/5. Framework/3. SpringMVC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java学习/5. Framework/3. SpringMVC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java学习/5. Framework/3. SpringMVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java学习/5. Framework/3. SpringMVC.md"
+              }
             }
           },
           {
@@ -157,6 +165,17 @@
   },
   "active": "b5d015afabe2afb1",
   "lastOpenFiles": [
+    "Java学习/5. Framework/3.SpringMVC.md",
+    "Java学习/5. Framework/3. SpringMVC.md",
+    "Java学习/5. Framework/6. SpringBoot.md",
+    "Java学习/5. Framework/5. SSM整合.md",
+    "Java学习/5. Framework/4. MyBatis.md",
+    "Java学习/5. Framework/2. Spring.md",
+    "Java学习/5. Framework/1. 框架是什么.md",
+    "Java学习/5. Framework/5.SSM整合.md",
+    "Java学习/5. Framework/4.MyBatis.md",
+    "Java学习/5. Framework/2.Spring.md",
+    "Java学习/5. Framework/1.框架是什么.md",
     "README.md",
     "flutter/1..md",
     "flutter/1.开发经验.md",
@@ -192,17 +211,6 @@
     "img/mysql",
     "img/img1",
     "Java学习/7. NoSql/1、Redis.md",
-    "Java学习/10. SpringBoot Actuator/1. 开始.md",
-    "Java学习/10. SpringBoot Actuator/shutdown.md",
-    "Java学习/10. SpringBoot Actuator/2. health.md",
-    "Java学习/5. Framework/2. Spring.md",
-    "Java学习/5. Framework/1. 框架是什么.md",
-    "Java学习/5. Framework/5. SSM整合.md",
-    "Java学习/5. Framework/4. MyBatis.md",
-    "Java学习/2. MySQL/15-JDBC.md",
-    "Java学习/2. MySQL/14-Myisan和Innodb.md",
-    "Java学习/5. Framework/3. SpringMVC.md",
-    "Java学习/7. Framework/MyBatis.md",
     "flutter/未命名.canvas",
     "未命名.canvas"
   ]
