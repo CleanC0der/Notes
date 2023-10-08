@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./resources",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "userIgnoreFilters": null
 }
