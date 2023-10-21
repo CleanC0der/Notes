@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9fe1850a28aa725",
+        "id": "2f6047ff28ef195c",
         "type": "tabs",
         "children": [
           {
-            "id": "c2aee574a712c9fe",
+            "id": "c7e650fb36e40dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Java学习/6. JVM/8. JVM优化案例.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Java学习/6. JVM/8. JVM优化案例.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Java学习/6. JVM/8. JVM优化案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Java学习/6. JVM/8. JVM优化案例.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,13 +163,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "126f1345acd8f687",
+  "active": "c7e650fb36e40dcd",
   "lastOpenFiles": [
-    "flutter/1. 开发经验.md",
+    "Java学习/7. NoSql/新建文件夹/redis.pdf",
+    "Java学习/6. JVM/8. JVM优化案例.md",
+    "Java学习/6. JVM/7. 高效并发.md",
+    "Java学习/6. JVM/6. 执行引擎.md",
+    "Java学习/6. JVM/5. 垃圾处理器.md",
+    "Java学习/6. JVM/3. 类加载子系统.md",
+    "Java学习/6. JVM/2. class字节码文件结构.md",
+    "Java学习/6. JVM/1. JVM概述.md",
+    "Java学习/4. 设计模式/1. 动态代理.md",
+    "Java学习/5. Framework/2. Spring.md",
+    "Java学习/6. JVM/4. 运行时数据区.md",
     "README.md",
+    "flutter/1. 开发经验.md",
     "Java学习/2. MySQL/00-数据库基础.md",
     "Java学习/2. MySQL/Readme.md",
-    "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/1. 框架是什么.md",
     "flutter/1.&nbsp开发经验.md",
     "Java学习/5. Framework/3. SpringMVC.md",
@@ -181,17 +191,6 @@
     "Java学习/5. Framework/4.MyBatis.md",
     "Java学习/5. Framework/2.Spring.md",
     "Java学习/5. Framework/1.框架是什么.md",
-    "flutter/1..md",
-    "flutter/1.开发经验.md",
-    "conflict-files-obsidian-git.md",
-    "flutter/1.开发学习.md",
-    "Java学习/1. JavaSE/5.5集合之Map.md",
-    "Java学习/1. JavaSE/5.6集合之Set.md",
-    "Java学习/1. JavaSE/5.4集合之List.md",
-    "Java学习/1. JavaSE/5.3集合简介.md",
-    "Java学习/7. NoSql/新建文件夹/redis.pdf",
-    "Java学习/3. 常用工具/1. Maven.md",
-    "Java学习/4. 设计模式/1. 动态代理.md",
     "Java学习/7. NoSql/redis.422.png",
     "Java学习/7. NoSql/redis.421.png",
     "Java学习/7. NoSql/redis.420.png",
