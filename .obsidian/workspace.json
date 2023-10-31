@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/5. Framework/2. Spring.md",
+                "file": "Java学习/5. Framework/4. MyBatis.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/5. Framework/2. Spring.md",
+                "file": "Java学习/5. Framework/4. MyBatis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/5. Framework/2. Spring.md",
+                "file": "Java学习/5. Framework/4. MyBatis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/5. Framework/2. Spring.md"
+                "file": "Java学习/5. Framework/4. MyBatis.md"
               }
             }
           },
@@ -172,8 +172,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "cc3ccec61f8300d4",
+  "active": "d5f4ea4e13920741",
   "lastOpenFiles": [
+    "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/resources/Spring框架结构.png",
     "Java学习/6. JVM/8. JVM优化案例.md",
     "Java学习/6. JVM/7. 高效并发.md",
@@ -184,7 +185,6 @@
     "Java学习/7. NoSql/新建文件夹/redis.pdf",
     "Java学习/6. JVM/2. class字节码文件结构.md",
     "Java学习/4. 设计模式/1. 动态代理.md",
-    "Java学习/5. Framework/2. Spring.md",
     "Java学习/6. JVM/4. 运行时数据区.md",
     "README.md",
     "flutter/1. 开发经验.md",
@@ -210,7 +210,6 @@
     "Java学习/7. NoSql/redis.416.png",
     "Java学习/7. NoSql/redis.415.png",
     "Java学习/7. NoSql/redis.414.png",
-    "Java学习/7. NoSql/redis.413.png",
     "Java学习/7. NoSql/新建文件夹",
     "Generatedimages",
     "Generated/images",
