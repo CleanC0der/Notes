@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d5f4ea4e13920741",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Java学习/5. Framework/resources/Spring框架结构.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java学习/5. Framework/resources/Spring框架结构.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java学习/5. Framework/resources/Spring框架结构.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java学习/5. Framework/resources/Spring框架结构.png"
+              }
             }
           },
           {
@@ -155,7 +170,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c7e650fb36e40dcd",
+  "active": "d5f4ea4e13920741",
   "lastOpenFiles": [
     "Java学习/6. JVM/8. JVM优化案例.md",
     "Java学习/6. JVM/7. 高效并发.md",
