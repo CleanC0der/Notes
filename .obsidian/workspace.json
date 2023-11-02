@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/5. Framework/4. MyBatis.md",
+                "file": "Java学习/5. Framework/5. SSM整合.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/5. Framework/4. MyBatis.md",
+                "file": "Java学习/5. Framework/5. SSM整合.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/5. Framework/4. MyBatis.md",
+                "file": "Java学习/5. Framework/5. SSM整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/5. Framework/4. MyBatis.md"
+                "file": "Java学习/5. Framework/5. SSM整合.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "d5f4ea4e13920741",
   "lastOpenFiles": [
+    "Java学习/5. Framework/4. MyBatis.md",
     "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/3. SpringMVC.md",
-    "Java学习/5. Framework/4. MyBatis.md",
     "Java学习/5. Framework/resources/Spring框架结构.png",
     "Java学习/6. JVM/8. JVM优化案例.md",
     "Java学习/6. JVM/7. 高效并发.md",
