@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "前端/3. Web/1、HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "前端/3. Web/1、HTTP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "前端/3. Web/1、HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md"
+                "file": "前端/3. Web/1、HTTP.md"
               }
             }
           },
@@ -165,8 +165,14 @@
   },
   "active": "c7e650fb36e40dcd",
   "lastOpenFiles": [
-    "Java学习/5. Framework/2. Spring.md",
+    "前端/3. Web/2、IDEA创建Web模块.md",
+    "前端/3. Web/6、MVC开发规则.md",
+    "前端/3. Web/5、JSP规范.md",
+    "前端/3. Web/4、互联网通信流程图.md",
+    "前端/3. Web/3、Servlet规范.md",
+    "前端/2. JavaScript/1、基础语法.md",
     "Java学习/5. Framework/5. SSM整合.md",
+    "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/4. MyBatis.md",
     "Java学习/5. Framework/3. SpringMVC.md",
     "Java学习/5. Framework/resources/SpringMVC执行流程.png",
@@ -188,11 +194,6 @@
     "Java学习/7. NoSql/新建文件夹/redis.pdf",
     "Java学习/6. JVM/2. class字节码文件结构.md",
     "Java学习/4. 设计模式/1. 动态代理.md",
-    "Java学习/6. JVM/4. 运行时数据区.md",
-    "README.md",
-    "flutter/1. 开发经验.md",
-    "Java学习/2. MySQL/00-数据库基础.md",
-    "Java学习/2. MySQL/Readme.md",
     "Java学习/7. NoSql/redis.422.png",
     "Java学习/7. NoSql/redis.421.png",
     "Java学习/7. NoSql/redis.420.png",
