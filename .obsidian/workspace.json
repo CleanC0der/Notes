@@ -11,14 +11,6 @@
             "id": "c7e650fb36e40dcd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5f4ea4e13920741",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Java学习/5. Framework/2. Spring.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,8 +163,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d5f4ea4e13920741",
+  "active": "c7e650fb36e40dcd",
   "lastOpenFiles": [
+    "Java学习/5. Framework/resources/SpringMVC执行流程.png",
+    "Java学习/5. Framework/resources/Spring框架结构.png",
+    "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/6. SpringBoot.md",
     "数据结构与算法/4.树/2、预备知识.md",
     "数据结构与算法/4.树/1、关于树.md",
@@ -184,9 +178,7 @@
     "数据结构与算法/7.排序/1、插入排序.md",
     "Java学习/5. Framework/4. MyBatis.md",
     "Java学习/5. Framework/5. SSM整合.md",
-    "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/3. SpringMVC.md",
-    "Java学习/5. Framework/resources/Spring框架结构.png",
     "Java学习/6. JVM/8. JVM优化案例.md",
     "Java学习/6. JVM/7. 高效并发.md",
     "Java学习/6. JVM/6. 执行引擎.md",
@@ -201,7 +193,6 @@
     "flutter/1. 开发经验.md",
     "Java学习/2. MySQL/00-数据库基础.md",
     "Java学习/2. MySQL/Readme.md",
-    "Java学习/5. Framework/1. 框架是什么.md",
     "Java学习/7. NoSql/redis.422.png",
     "Java学习/7. NoSql/redis.421.png",
     "Java学习/7. NoSql/redis.420.png",
