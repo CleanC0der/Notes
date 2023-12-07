@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "flutter/1. 开发经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "flutter/1. 开发经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "flutter/1. 开发经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md"
+                "file": "flutter/1. 开发经验.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "c7e650fb36e40dcd",
   "lastOpenFiles": [
+    "Java学习/5. Framework/5. SSM整合.md",
     "前端/3. Web/4、互联网通信流程图.md",
     "前端/3. Web/6、MVC开发规则.md",
     "前端/3. Web/1、HTTP.md",
@@ -172,7 +173,6 @@
     "前端/3. Web/5、JSP规范.md",
     "前端/3. Web/3、Servlet规范.md",
     "前端/2. JavaScript/1、基础语法.md",
-    "Java学习/5. Framework/5. SSM整合.md",
     "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/4. MyBatis.md",
     "Java学习/5. Framework/3. SpringMVC.md",
