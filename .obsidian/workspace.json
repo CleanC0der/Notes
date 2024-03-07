@@ -23,9 +23,11 @@
             "id": "6eff966242ee30fd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Java学习/5. Framework/6. SpringBoot.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/1. JavaSE/6.2枚举类型.md",
+                "file": "Java学习/5. Framework/6. SpringBoot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/1. JavaSE/6.2枚举类型.md",
+                "file": "Java学习/5. Framework/6. SpringBoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/1. JavaSE/6.2枚举类型.md"
+                "file": "Java学习/5. Framework/6. SpringBoot.md"
               }
             }
           },
@@ -176,6 +178,7 @@
   },
   "active": "6eff966242ee30fd",
   "lastOpenFiles": [
+    "Java学习/5. Framework/3. SpringMVC.md",
     "Java学习/5. Framework/6. SpringBoot.md",
     "Java学习/5. Framework/5. SSM整合.md",
     "Java学习/5. Framework/resources/Spring框架结构.png",
@@ -195,7 +198,6 @@
     "前端/2. JavaScript/1、基础语法.md",
     "Java学习/5. Framework/2. Spring.md",
     "Java学习/5. Framework/4. MyBatis.md",
-    "Java学习/5. Framework/3. SpringMVC.md",
     "数据结构与算法/7.排序/6、快速排序.md",
     "数据结构与算法/7.排序/3、选择排序.md",
     "数据结构与算法/7.排序/4、堆排序.md",
