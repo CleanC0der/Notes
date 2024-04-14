@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73c9b564788e477f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +186,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6eff966242ee30fd",
+  "active": "73c9b564788e477f",
   "lastOpenFiles": [
     "Java学习/5. Framework/6. SpringBoot.md",
     "Java学习/5. Framework/3. SpringMVC.md",
