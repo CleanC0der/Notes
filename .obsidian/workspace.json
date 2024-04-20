@@ -35,9 +35,11 @@
             "id": "73c9b564788e477f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Java学习/5. Framework/3. SpringMVC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/5. Framework/4. MyBatis.md",
+                "file": "Java学习/5. Framework/3. SpringMVC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/5. Framework/4. MyBatis.md",
+                "file": "Java学习/5. Framework/3. SpringMVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/5. Framework/4. MyBatis.md"
+                "file": "Java学习/5. Framework/3. SpringMVC.md"
               }
             }
           },
@@ -188,6 +190,11 @@
   },
   "active": "73c9b564788e477f",
   "lastOpenFiles": [
+    "Java学习/2. MySQL/01-基础.md",
+    "Java学习/2. MySQL/00-数据库基础.md",
+    "Java学习/2. MySQL/02-过滤、正则表达式.md",
+    "Java学习/2. MySQL/03-计算字段、常用处理函数.md",
+    "Java学习/2. MySQL/05-子查询.md",
     "Java学习/5. Framework/6. SpringBoot.md",
     "Java学习/5. Framework/3. SpringMVC.md",
     "Java学习/5. Framework/5. SSM整合.md",
@@ -211,10 +218,6 @@
     "数据结构与算法/7.排序/6、快速排序.md",
     "数据结构与算法/7.排序/3、选择排序.md",
     "数据结构与算法/7.排序/4、堆排序.md",
-    "数据结构与算法/7.排序/2、希尔排序.md",
-    "数据结构与算法/7.排序/1、插入排序.md",
-    "Java学习/6. JVM/8. JVM优化案例.md",
-    "Java学习/6. JVM/7. 高效并发.md",
     "Java学习/7. NoSql/新建文件夹/redis.pdf",
     "Java学习/7. NoSql/redis.422.png",
     "Java学习/7. NoSql/redis.421.png",
