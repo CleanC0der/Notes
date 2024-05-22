@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7e650fb36e40dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java学习/1. JavaSE/6.2枚举类型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eff966242ee30fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java学习/5. Framework/4. MyBatis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "73c9b564788e477f",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
