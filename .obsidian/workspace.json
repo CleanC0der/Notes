@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f34b6b107714a0d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "73c9b564788e477f",
+  "active": "f34b6b107714a0d1",
   "lastOpenFiles": [
     "Java学习/7. NoSql/新建文件夹/redis.pdf",
     "Java学习/5. Framework/6. SpringBoot.md",
