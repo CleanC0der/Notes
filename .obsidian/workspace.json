@@ -23,9 +23,11 @@
             "id": "f34b6b107714a0d1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/5. Framework/6. SpringBoot.md",
+                "file": "Java学习/5. Framework/5. SSM整合.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/5. Framework/6. SpringBoot.md",
+                "file": "Java学习/5. Framework/5. SSM整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/5. Framework/6. SpringBoot.md"
+                "file": "Java学习/5. Framework/5. SSM整合.md"
               }
             }
           },
@@ -176,12 +178,16 @@
   },
   "active": "f34b6b107714a0d1",
   "lastOpenFiles": [
-    "Java学习/7. NoSql/新建文件夹/redis.pdf",
     "Java学习/5. Framework/6. SpringBoot.md",
     "Java学习/5. Framework/5. SSM整合.md",
     "Java学习/5. Framework/4. MyBatis.md",
-    "Java学习/5. Framework/3. SpringMVC.md",
     "Java学习/5. Framework/2. Spring.md",
+    "Java学习/4. 设计模式/1. 动态代理.md",
+    "Java学习/2. MySQL/Readme.md",
+    "Java学习/2. MySQL/15-JDBC.md",
+    "Java学习/2. MySQL/14-Myisan和Innodb.md",
+    "Java学习/7. NoSql/新建文件夹/redis.pdf",
+    "Java学习/5. Framework/3. SpringMVC.md",
     "Java学习/5. Framework/1. 框架是什么.md",
     "flutter/1. 开发经验.md",
     "Java学习/1. JavaSE/6.2枚举类型.md",
@@ -201,9 +207,6 @@
     "README.md",
     "数据结构与算法/4.树/2、预备知识.md",
     "数据结构与算法/4.树/1、关于树.md",
-    "机器学习/基础/2、线性回归算法/1.梯度下降算法.md",
-    "机器学习/基础/2、线性回归算法/2.正规方程.md",
-    "前端/2. JavaScript/1、基础语法.md",
     "Java学习/7. NoSql/redis.422.png",
     "Java学习/7. NoSql/redis.421.png",
     "Java学习/7. NoSql/redis.420.png",
