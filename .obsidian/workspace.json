@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "Java学习/5. Framework/6. SpringBoot.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "Java学习/5. Framework/6. SpringBoot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md",
+                "file": "Java学习/5. Framework/6. SpringBoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java学习/5. Framework/5. SSM整合.md"
+                "file": "Java学习/5. Framework/6. SpringBoot.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "f34b6b107714a0d1",
   "lastOpenFiles": [
-    "Java学习/5. Framework/6. SpringBoot.md",
     "Java学习/5. Framework/5. SSM整合.md",
+    "Java学习/5. Framework/6. SpringBoot.md",
     "Java学习/5. Framework/4. MyBatis.md",
     "Java学习/5. Framework/2. Spring.md",
     "Java学习/4. 设计模式/1. 动态代理.md",
