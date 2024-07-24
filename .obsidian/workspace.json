@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java学习/5. Framework/6. SpringBoot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34b6b107714a0d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "面试/Java面试概述.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,10 +163,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f34b6b107714a0d1",
+  "active": "73c9b564788e477f",
   "lastOpenFiles": [
-    "Java学习/5. Framework/6. SpringBoot.md",
+    "1231.md",
     "面试/Java面试概述.md",
+    "Java学习/5. Framework/6. SpringBoot.md",
+    "[.md",
     "面试/Java/未命名.md",
     "面试/Java",
     "面试",
@@ -207,8 +196,6 @@
     "前端/3. Web/3、Servlet规范.md",
     "前端/3. Web/4、互联网通信流程图.md",
     "前端/3. Web/5、JSP规范.md",
-    "前端/3. Web/6、MVC开发规则.md",
-    "README.md",
     "Java学习/7. NoSql/redis.422.png",
     "Java学习/7. NoSql/redis.421.png",
     "Java学习/7. NoSql/redis.420.png",
