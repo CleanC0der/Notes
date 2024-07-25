@@ -2,7 +2,8 @@
 ## 包装类型的缓存机制
 
 Java的基本数据类型使用了缓存来提升性能
-Byte,Short,Integer,Long将\[-128,127]范围内的值缓存，Character创建了[0,127]的缓存，Boolean则是直接返回Ture或False
+Byte,Short,Integer,Long将\[-128,127]范围内的值缓存，Character创建了\[0,127]的缓存，Boolean则是直接返回Ture或False
+
 ```java
 // Integer 缓存代码
 public static Integer valueOf(int i) {
@@ -19,3 +20,13 @@ private static class IntegerCache {
     }
 }
 ```
+## 接口和抽象类的区别
+
+> 共同点
+> 1. 都不能实例化
+> 2. 都可以包含抽象方法
+
+> 不同点
+> 1. 接口主要是对行为约束，而抽象类的主要目的是代码复用
+> 2. java里接口可以实现多个，而类（抽象类）只能继承一个
+> 3. 接口中的变量只能是`f`
