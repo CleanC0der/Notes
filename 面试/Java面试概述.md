@@ -32,3 +32,8 @@ private static class IntegerCache {
 > 3. 接口中的变量只能是`public static final`类型的，而抽象类里就是正常的
 > 4. 接口方法可以是`public abstract`，`default`，`static`的（后两个是Java8之后才有的），抽象类可以有抽象方法和非抽象方法
 
+# 集合
+![](resources/Pasted%20image%2020240725184239.png)
+
+> 注：图中只列举了主要的继承派生关系，并没有列举所有关系。比方省略了`AbstractList`,`NavigableSet`等抽象类以及其他的一些辅助类，如想深入了解，可自行查看源码。
+
