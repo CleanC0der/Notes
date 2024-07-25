@@ -29,4 +29,6 @@ private static class IntegerCache {
 > 不同点
 > 1. 接口主要是对行为约束，而抽象类的主要目的是代码复用
 > 2. java里接口可以实现多个，而类（抽象类）只能继承一个
-> 3. 接口中的变量只能是`f`
+> 3. 接口中的变量只能是`public static final`类型的，而抽象类里就是正常的
+> 4. 接口方法可以是`public abstract`，`default`，`static`的（后两个是Java8之后才有的），抽象类可以有抽象方法和非抽象方法
+
