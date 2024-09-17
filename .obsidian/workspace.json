@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "958880d412ce976b",
+        "id": "55346f5c38e551aa",
         "type": "tabs",
         "children": [
           {
-            "id": "bf41b9dbd336f593",
+            "id": "cd44582170a32b9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flutter/1. 开发经验.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/1. 开发经验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/1. 开发经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "flutter/1. 开发经验.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,12 +156,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf41b9dbd336f593",
+  "active": "955f666b328e8efb",
   "lastOpenFiles": [
+    "flutter/1. 开发经验.md",
     "面试/Notes",
-    "Java学习/7. NoSql/新建文件夹/redis.pdf",
-    "Java学习/5. Framework/2. Spring.md",
-    "Java学习/5. Framework/6. SpringBoot.md",
+    "Java/7. NoSql/新建文件夹/redis.pdf",
+    "Java/5. Framework/2. Spring.md",
+    "Java/5. Framework/6. SpringBoot.md",
     "面试/Java面试概述.md",
     "面试/resources/Pasted image 20240725184239.png",
     "面试/resources",
@@ -178,23 +171,22 @@
     "面试/Java/未命名.md",
     "面试/Java",
     "面试",
-    "Java学习/5. Framework/5. SSM整合.md",
-    "Java学习/5. Framework/4. MyBatis.md",
-    "Java学习/4. 设计模式/1. 动态代理.md",
-    "Java学习/2. MySQL/Readme.md",
-    "Java学习/2. MySQL/15-JDBC.md",
-    "Java学习/2. MySQL/14-Myisan和Innodb.md",
-    "Java学习/5. Framework/3. SpringMVC.md",
-    "Java学习/5. Framework/1. 框架是什么.md",
-    "flutter/1. 开发经验.md",
-    "Java学习/1. JavaSE/6.2枚举类型.md",
-    "Java学习/2. MySQL/01-基础.md",
-    "Java学习/2. MySQL/00-数据库基础.md",
-    "Java学习/2. MySQL/02-过滤、正则表达式.md",
-    "Java学习/2. MySQL/03-计算字段、常用处理函数.md",
-    "Java学习/2. MySQL/05-子查询.md",
-    "Java学习/5. Framework/resources/Spring框架结构.png",
-    "Java学习/5. Framework/resources/SpringMVC执行流程.png",
+    "Java/5. Framework/5. SSM整合.md",
+    "Java/5. Framework/4. MyBatis.md",
+    "Java/4. 设计模式/1. 动态代理.md",
+    "Java/2. MySQL/Readme.md",
+    "Java/2. MySQL/15-JDBC.md",
+    "Java/2. MySQL/14-Myisan和Innodb.md",
+    "Java/5. Framework/3. SpringMVC.md",
+    "Java/5. Framework/1. 框架是什么.md",
+    "Java/1. JavaSE/6.2枚举类型.md",
+    "Java/2. MySQL/01-基础.md",
+    "Java/2. MySQL/00-数据库基础.md",
+    "Java/2. MySQL/02-过滤、正则表达式.md",
+    "Java/2. MySQL/03-计算字段、常用处理函数.md",
+    "Java/2. MySQL/05-子查询.md",
+    "Java/5. Framework/resources/Spring框架结构.png",
+    "Java/5. Framework/resources/SpringMVC执行流程.png",
     "前端/3. Web/1、HTTP.md",
     "前端/3. Web/2、IDEA创建Web模块.md",
     "前端/3. Web/3、Servlet规范.md",
@@ -206,12 +198,11 @@
     "Java学习/7. NoSql/redis.418.png",
     "Java学习/7. NoSql/redis.417.png",
     "Java学习/7. NoSql/redis.416.png",
-    "Java学习/7. NoSql/新建文件夹",
+    "Java/7. NoSql/新建文件夹",
     "Generatedimages",
     "Generated/images",
     "Generated",
     "Java学习/7. NoSql/redis.pdf",
-    "img/Spring",
     "flutter/未命名.canvas",
     "未命名.canvas"
   ]
